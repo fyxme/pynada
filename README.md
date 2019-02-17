@@ -1,10 +1,10 @@
 # Pynada - getnada.com Unofficial API
 
-Pynada is an unofficial getnada.com python library to access all of its api endpoints
+Pynada is an unofficial [getnada.com](https://getnada.com/) API documentation and python wrapper.
 
-NOTE: The API was reverse engineered and is therefore subject to change.
+NOTE: The API was reverse engineered and is therefore subject to change and break without notice. (Scroll down to see the endpoints etc.)
 
-# Usage
+# Python Wrapper Usage
 
 ## Get available domains
 
